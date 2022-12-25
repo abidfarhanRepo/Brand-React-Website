@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Brand-React-Website/static/css/main.2bfa4b5e.css",
+    "main.js": "/Brand-React-Website/static/js/main.cc063d55.js",
+    "static/media/support.jpg": "/Brand-React-Website/static/media/support.13dffa5bdb3a671bcb5b.jpg",
+    "static/media/cyber-bg.png": "/Brand-React-Website/static/media/cyber-bg.44527257ee32d74ae878.png",
+    "index.html": "/Brand-React-Website/index.html",
+    "main.2bfa4b5e.css.map": "/Brand-React-Website/static/css/main.2bfa4b5e.css.map",
+    "main.cc063d55.js.map": "/Brand-React-Website/static/js/main.cc063d55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bfa4b5e.css",
+    "static/js/main.cc063d55.js"
+  ]
+}
